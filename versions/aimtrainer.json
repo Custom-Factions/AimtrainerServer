@@ -1,0 +1,9 @@
+{
+  "LOCATION": "./plugins",
+  "versions": {
+    "0.0": {
+      "URL": "http://depend.ing/dep/AimTrainer-1.0-SNAPSHOT.jar",
+      "FILE-NAME": "AimTrainer-1.0-SNAPSHOT.jar"
+    }
+  }
+}

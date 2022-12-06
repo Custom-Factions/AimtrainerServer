@@ -1,0 +1,9 @@
+{
+  "LOCATION": "./plugins",
+  "versions": {
+    "0.0": {
+      "URL": "http://depend.ing/dep/FastAsyncWorldEdit-Bukkit-2.4.10.jar",
+      "FILE-NAME": "FastAsyncWorldEdit-Bukkit-2.4.10.jar"
+    }
+  }
+}

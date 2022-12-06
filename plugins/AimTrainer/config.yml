@@ -1,0 +1,26 @@
+allayspawnmax: 5
+arenas:
+  arena1:
+    buildbarriercage: true
+    world: world
+    spawnlocation:
+      x: 100
+      y: 70
+      z: 100
+      yaw: 0
+      pitch: 0
+    locationA:
+      x: 98
+      y: 70
+      z: 95
+    locationB:
+      x: 120
+      y: 75
+      z: 105
+weapons:
+  Ak47: false
+  PumpGun: false
+  Pistol: false
+
+
+

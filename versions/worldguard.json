@@ -1,0 +1,9 @@
+{
+  "LOCATION": "./plugins",
+  "versions": {
+    "0.0": {
+      "URL": "http://depend.ing/dep/worldguard-bukkit-7.0.7-dist.jar",
+      "FILE-NAME": "worldguard-bukkit-7.0.7-dist.jar"
+    }
+  }
+}

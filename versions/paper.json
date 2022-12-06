@@ -1,0 +1,9 @@
+{
+  "LOCATION": ".",
+  "versions": {
+    "0.0": {
+      "URL": "http://depend.ing/dep/paper-1.19.2-305.jar",
+      "FILE-NAME": "paper-1.19.2-305.jar"
+    }
+  }
+}

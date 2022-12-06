@@ -1,0 +1,9 @@
+{
+  "LOCATION": "./plugins",
+  "versions": {
+    "0.0": {
+      "URL": "http://depend.ing/dep/ProtocolLib605.jar",
+      "FILE-NAME": "ProtocolLib605.jar"
+    }
+  }
+}
