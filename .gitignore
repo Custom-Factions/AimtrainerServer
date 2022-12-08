@@ -1,7 +1,5 @@
 /.idea/
 /world/
-/world_nether/
-/world_the_end/
 /.gitignore
 /banned-ips.json
 /banned-players.json
@@ -35,3 +33,4 @@
 /plugins/ProtocolLib/
 /plugins/bStats/
 /donotautoupdate
+/.console_history
